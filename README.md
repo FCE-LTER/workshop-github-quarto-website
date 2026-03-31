@@ -7,7 +7,7 @@ The files in this repository is the test website that Hannah-Marie created durin
 
 ### Link to Workshop slides and recording: 
 
-[Workshop Slides.pdf]()
+[Workshop Slides.pdf](https://github.com/FCE-LTER/workshop-github-quarto-website/blob/main/SPRING26_FCE_workshop_Quarto_website_Lamle.pdf)
 
 ### Additional links to website-making resources (found in last slide of workshop slides): 
 
