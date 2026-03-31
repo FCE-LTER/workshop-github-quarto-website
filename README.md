@@ -7,7 +7,7 @@ The files in this repository is the test website that Hannah-Marie created durin
 
 ### Link to Workshop slides and recording: 
 
-Come back soon for the resource links to be posted! 
+[Workshop Slides.pdf]()
 
 ### Additional links to website-making resources (found in last slide of workshop slides): 
 
